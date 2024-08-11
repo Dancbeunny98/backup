@@ -16,7 +16,7 @@
 2. Установите необходимые пакеты:
 
      ```sudo yum install zip rsync sshpass```
-### Н аmacOS
+### На macOS
 1. Установите Homebrew (если еще не установлен):
 
      ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
