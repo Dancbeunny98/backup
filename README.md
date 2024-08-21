@@ -15,8 +15,6 @@
 
      *```sudo apt install -y openssh-server```
 
-* Если не установлено.
-
 # Шаг 2: Настройка скриптов
 
 ## Скрипт backup.sh
