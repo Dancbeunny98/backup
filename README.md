@@ -8,8 +8,11 @@
 2. Установите необходимые пакеты:
 
      ```sudo apt install -y rsync tar openssh-client sshpass findutils```
+   
      ```sudo apt install -y gzip```
+
      ```sudo apt install -y sshpass```
+
      *```sudo apt install -y openssh-server```
 
 * Если не установлено.
